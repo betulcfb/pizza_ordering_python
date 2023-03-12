@@ -1,0 +1,13 @@
+* Please choose a pizza base:
+1: Classic Pizza 25TL 
+2: Margherita Pizza 20TL 
+3: Turkish Pizza 30TL 
+4: Plain Pizza 20TL 
+* and ingredient of your choice: 
+5: olives 3TL 
+6: Mushrooms 2TL 
+7: Goat Cheese 4TL 
+8: Meat 5TL 
+9: Onions 2TL 
+10: Corn 3TL 
+* Thank you! :) 
